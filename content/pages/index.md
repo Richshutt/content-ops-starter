@@ -8,10 +8,11 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: An A to Z of all your technical needs
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+
+      Expert-led consultancy delivering innovative IT, AI, and digital solutions
+      for education and the public sector
+
     actions:
       - label: Get started
         altText: ''
