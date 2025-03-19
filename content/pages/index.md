@@ -8,11 +8,9 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: An A to Z of all your technical needs
-    text: >+
-
-      Expert-led consultancy delivering innovative IT, AI, and digital solutions
-      for education and the public sector
-
+    text: >
+      Expert-led, bespoke consultancy delivering innovative IT, AI, and digital
+      solutions for education and the public sector
     actions:
       - label: Get started
         altText: ''
